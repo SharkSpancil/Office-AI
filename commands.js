@@ -1,0 +1,1 @@
+(()=>{function a(a){Office.addin.showAsTaskpane(),a.completed()}Office.onReady((function(){Office.actions.associate("showTaskpane",a)}))})();
